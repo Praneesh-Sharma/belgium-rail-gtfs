@@ -20,7 +20,13 @@ This project explores the General Transit Feed Specification (GTFS) data for Bel
    cd belgium-rail-gtfs
    ```
 
-2. Install dependencies:
+2. Create a virtual environment:
+   ```bash
+   python -m venv venv
+   venv\Scripts\activate
+   ```
+
+3. Install dependencies:
    ```bash
    pip install -r requirements.txt
    ```
