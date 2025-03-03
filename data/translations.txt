@@ -15,8 +15,11 @@ trips,trip_headsign,de,Poperinge,,,Poperinge
 stops,stop_name,en,Poperinge,,,Poperinge
 trips,trip_headsign,en,Poperinge,,,Poperinge
 stops,stop_name,nl,Ieper,,,Ypres
+trips,trip_headsign,nl,Ieper,,,Ypres
 stops,stop_name,de,Ieper / Ypres,,,Ypres
+trips,trip_headsign,de,Ieper / Ypres,,,Ypres
 stops,stop_name,en,Ypres / Ieper,,,Ypres
+trips,trip_headsign,en,Ypres / Ieper,,,Ypres
 stops,stop_name,nl,Komen,,,Comines
 stops,stop_name,de,Komen / Comines,,,Comines
 stops,stop_name,en,Comines / Komen,,,Comines
