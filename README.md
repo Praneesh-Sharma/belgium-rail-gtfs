@@ -5,7 +5,7 @@ This project explores the General Transit Feed Specification (GTFS) data for Bel
 
 ## Requirements
 - Python 3.8 or higher
-- Required packages:
+- Required packages (install via `pip install -r requirements.txt`):
   - pandas
   - matplotlib
   - seaborn
@@ -22,7 +22,7 @@ This project explores the General Transit Feed Specification (GTFS) data for Bel
 
 2. Install dependencies:
    ```bash
-   conda env create -f environment.yaml
+   pip install -r requirements.txt
    ```
 
 3. Ensure you have the GTFS data files (stops.txt, routes.txt, etc.) in the data/ folder.
